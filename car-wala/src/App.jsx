@@ -4,7 +4,7 @@ import { loadYouTube } from './utils/loadApi'
 //SONG LIST
 const PLAYLIST = [
   'f5hxIMXFxSo',
-  '0v5eHPfy5Lk',
+  '0v5feHPfy5Lk',
   'SBfPs-PMGTA',
   'WlWlGlvN4L4',
   'Y7QwlhOGZJI',
@@ -371,14 +371,7 @@ export default function App() {
 
         <div className="visual-center">
           <div className="car-wrap">
-            {/* 
-              Apni car image yahan rakh sakte ho.
-              Example:
-              <img
-                src={carImg}
-                alt="car"
-              />
-            */}
+            
           </div>
         </div>
          {/* QUOTE */}
